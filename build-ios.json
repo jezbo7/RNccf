@@ -1,0 +1,12 @@
+{
+  "ios": {
+    "debug": {
+      "developmentTeam": "ZJMNBB63P4"
+    },
+    "release": {
+      "developmentTeam": "ZJMNBB63P4",
+      "codeSignIdentity": "iPhone Developer",
+      "packageType": "ad-hoc"
+    }
+  }
+}
